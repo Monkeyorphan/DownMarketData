@@ -1,4 +1,4 @@
-The DownMarketData project will look at the relationship between the S&P 500 and the 20+ Year US Treasury Bond. Throughout the history of the US Stock Market, when Stocks have a significant equity drawdown, Treasuries have been a much safer place to put your money. This year, for the first time, Treasuries, the risk-off asset, have had a larger decline than the stock market during a significant equity drawdown. This anamoly leads some professionals to believe that something troubling may be coming for the US economy.
+The DownMarketData project will look at the relationship between the S&P 500 and the 20+ Year US Treasury Bond. Throughout the history of the US Stock Market, when Stocks have a significant equity drawdown, Treasuries have been a much safer place to put your money. This year, for the first time ever, Treasuries, the risk-off asset, have had a larger decline than the stock market during a significant equity drawdown. This anamoly leads some professionals to believe that something troubling may be coming for the US economy.
 
 Requirement 1: Loading Data - In Visual Studio Code, I read in APIs from https://www.alphavantage.co/documentation/ using a private API Key. I have hidden that API Key using a .env file and .gitignore so that it is not visible in my commits to GitHub. For the separate Tableau visualization, I found data online and created a spreadsheet that was used to create the side-by-side Bar Chart.
 
@@ -10,7 +10,7 @@ Requirement 4: Best Practices - I created a Virtual Environment within Visual St
 
 Requirement 5: Interpretation of the Data - Each line of code is annotated with Markdown cells describing what the code is intended to do and why.
 
-In order to run the program on your computer:
+In order to run the program locally on your computer:
 
 1. Open Visual Studio Code and use Python 3.10.6
 2. Clone the Repository https://github.com/Monkeyorphan/DownMarketData.git
